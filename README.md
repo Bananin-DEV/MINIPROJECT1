@@ -3,7 +3,7 @@ Mini Proyecto: Higher Order Functions en Criptografía
 Asignatura: Programación Funcional y Reactiva
 Universidad: Universidad Técnica Particular de Loja (UTPL)
 Carrera: Ingeniería Computacional
-Estudiante: [Tu nombre completo]
+Estudiante: Mateo Valdivieso
 Lenguaje: Scala
 
 1. Objetivo
