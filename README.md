@@ -200,7 +200,8 @@ XOR carácter ñ  -> ERROR: Carácter no soportado: 'ñ'
 
 📸 Captura de la ejecución en IntelliJ IDEA:
 
-![Ejecución en IntelliJ](img/ejecucion.png)
+<img width="1445" height="383" alt="image" src="https://github.com/user-attachments/assets/cf74cb2d-d1f7-4186-9095-1a55ed608333" />
+
 
 8. Preguntas de reflexión
 
